@@ -2,30 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6853376-2142-474d-b5bd-04e8a512d599" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JISPunchInSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChangePasswordInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PasswordDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PasswordListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PunchInActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PunchInInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PunchInOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PunchInProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResetDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResetListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeacherActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PunchInProject/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PunchInProject.PunchInProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PunchInProject.PunchInProject" />
@@ -84,7 +73,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
